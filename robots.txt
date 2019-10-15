@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eechaeguer.toetheline.org.uk/sitemap.xml
